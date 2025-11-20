@@ -59,4 +59,6 @@ if "Jack" in fav_snacks:
     print(fav_snacks["Jack"])
 else:
     fav_snacks["Jack"] = "ice cream"
+
+print("hello world")
     
